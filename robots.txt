@@ -24,4 +24,4 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Sitemap: https://convertly-ultra.web.app/sitemap.xml
+Sitemap: https://converter-ultra.vercel.app/sitemap.xml
