@@ -1,0 +1,15 @@
+# Convertly-ULTRA
+
+> Free, private, in-browser file converter for images, audio and text files. No ads, no login, no uploads. Created by Reyny Mark Mabeza (https://reynymark.is-a.dev).
+
+## Pages
+- [Home / Converter](https://convertly-ultra.web.app/): Drop files, choose a target format, download. FAQ is at /#faq.
+- [Privacy Policy](https://convertly-ultra.web.app/privacy.html): Files never leave the device; two optional first-party cookies (device ID, visit count) set only after consent.
+- [Terms of Use](https://convertly-ultra.web.app/terms.html): Free to use, provided as is.
+
+## Supported conversions
+- Image: PNG, JPG, WebP, BMP, PDF (SVG and GIF as input)
+- Audio: WAV, MP3
+- Text: TXT, MD, HTML, JSON, CSV, plus PDF and DOCX output (including JSON to CSV and CSV to JSON)
+- Video: MP4, WebM, GIF, or MP3/WAV audio extracted from video
+- Documents: PDF to TXT, DOCX, PNG, JPG; DOCX to TXT, HTML, PDF
